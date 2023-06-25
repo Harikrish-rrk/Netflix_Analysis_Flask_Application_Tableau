@@ -20,5 +20,5 @@
 ```
 ##### Run flask application 
 ```
-###### flask run --debug
+flask run --debug
 ```
