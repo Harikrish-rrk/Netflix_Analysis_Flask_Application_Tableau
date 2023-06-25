@@ -1,0 +1,79 @@
+{% extends 'bootstrap/base.html' %}
+{% block title %}Navbar{% endblock title %}
+{% block body %}
+<style>
+    body::-webkit-scrollbar {
+        width: 16px;
+    }
+
+    body::-webkit-scrollbar-track {
+        background: black;
+        padding-top: 100px;
+        margin-block: 2rem;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        box-sizing: border-box;
+        border-radius: 20px;
+        height: 10px;
+        border: 20px solid rgb(50, 49, 49);
+    }
+
+    body::-webkit-scrollbar-thumb:hover {
+        border: 20px solid rgb(75, 75, 75);
+    }
+</style>
+
+<body style="background: black;">
+    {{super()}}
+</body>
+
+{% endblock body %}
+{% block style %}
+{% endblock style %}
+
+{%block head %}
+{{super()}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Caprasimo&family=Cherry+Bomb+One&family=Lobster&display=swap"
+    rel="stylesheet">
+{% endblock head %}
+
+{% block content %}
+<div>
+    <br>
+    <div style="display: flex; align-content:center; align-items:center; justify-content: space-around;">
+        <div style="display: flex; align-content:center; align-items:center">
+            <img style="height: 100px; aspect-ratio: auto;" src="{{url_for('static', filename='img/netflix.webp')}}">
+            <h1 style="text-align:center;font-family: 'Caprasimo', cursive; color:white;">Netflix Analysis Using Tableau
+            </h1>
+        </div>
+        <div>
+            <a href="https://github.com/Harikrish-rrk"><img style=" height: 50px; aspect-ratio: auto;"
+                    src="{{url_for('static', filename='img/github-mark-white.png')}}"></a>
+            &emsp;
+            &emsp;
+            &emsp;
+            <img style="height: 50px; aspect-ratio: auto; filter: invert(100%);"
+                src="{{url_for('static', filename='img/tb.png')}}">
+        </div>
+    </div>
+    <div style="margin-left: 180px;">
+        <div class="btn-group btn-group-lg" role="group" aria-label="Basic example">
+
+            <a href="{{url_for('home')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Home</a>
+            <a href="{{url_for('project')}}" class="btn btn-primary"
+                style="color:white;text-decoration:none;">Project</a>
+            <a href="{{url_for('tableau')}}" class="btn btn-primary"
+                style="color:white;text-decoration:none;">Tableau</a>
+            <a href="{{url_for('contributors')}}" class="btn btn-primary"
+                style="color:white;text-decoration:none;">Contributors</a>
+            <a href="{{url_for('about')}}" class="btn btn-primary" style="color:white;text-decoration:none;">About</a>
+
+        </div>
+    </div>
+    <br>
+</div>
+{% endblock content %}
