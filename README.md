@@ -4,13 +4,21 @@
 
 ## Virtual Environment Setup
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+ py -3 -m venv venv
 ```
-###### py -3 -m venv venv
-###### venv\Scripts\activate
-###### cd .\Netflix\
-###### pip install flask
-###### pip install Flask-Bootstrap
+#### Activate Virtual environment
+```
+ venv\Scripts\activate
+```
+#### Change Directory to Netflix
+```
+  cd .\Netflix\
+```
+#### Install dependencies
+```
+  pip install flask , Flask-Bootstrap
+```
+#####Run flask application 
+```
 ###### flask run --debug
+```
