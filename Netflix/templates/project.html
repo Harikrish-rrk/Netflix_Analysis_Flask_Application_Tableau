@@ -5,60 +5,40 @@
 <h1 class="text-primary"
     style="margin-left:180px;font-family: 'Bagel Fat One', cursive;display:flex;align-items:center;"><i
         class="bi bi-file-earmark-fill" style="padding-bottom: 10px;"></i>&emsp14;Project</h1>
-<div>
-    <br>
-    <h1 style="margin-left:180px;font-family: 'Bagel Fat One', cursive; color: #3c5c64;">About this Dataset</h1>
-    <div style="margin-left:200px;color:white;font-weight: 500;font-size: medium;">
-        <div style="width: 110rem;display:flex;justify-content:space-between; align-items: center;">
-            <h3>
-                <h1 style="color: rgb(0, 132, 255);display:inline;">Kaggle&emsp;</h1> a software used for data
-                vizualization and
-                analysis
-            </h3>
-            &emsp;&emsp;&emsp;
-            <a class="btn btn-success" href="https://www.kaggle.com/datasets/shivamb/netflix-shows">Kaggle Dataset</a>
-        </div>
-    </div>
-    <h1 style="margin-left:180px;font-family: 'Bagel Fat One', cursive; color: #3c5c64;">Softwares Used</h1>
-    <div style="margin-left:200px;color:white;font-weight: 500;font-size: medium;">
-        <div style="width: 110rem;display:flex;justify-content:space-between; align-items: center;">
-            <h3>
-                <h1 style="color: rgb(0, 132, 255);display:inline;">Tableau&emsp;</h1> a software used for data
-                vizualization and
-                analysis
-            </h3>
-            &emsp;&emsp;&emsp;
-            <a class="btn btn-success" href="http://kaggle.com">Tableau</a>
-        </div>
-    </div>
-    <div style="margin-left:200px;color:white;font-weight: 500;font-size: medium;">
-        <div style="width: 110rem;display:flex;justify-content:space-between; align-items: center;">
-            <h3>
-                <div>
+<h1 style="margin-left:180px;font-family: 'Bagel Fat One', cursive;color: #c30707;">MysQL Setup</h1>
+<div
+    style="margin-left:180px;padding:10px; display: flex; justify-content:space-between; align-items: center;align-content: center;width:450px;text-align: center;">
+    <a class="btn btn-success" href="https://dev.mysql.com/downloads/installer">MySQL Installation File</a>
 
-                    <h1 style="color: rgb(0, 132, 255);display:inline;">Flask&emsp;
-                        <a class="btn btn-success" href="http://kaggle.com">Flask Documentation</a>
-                    </h1>
-                </div>
-            </h3>
-        </div>
-        <h3>
-            is a web framework, it’s a Python module
-            that lets you develop web applications easily. It’s has a small and easy-to-extend core: it’s a
-            microframework that doesn’t include an ORM (Object Relational Manager) or such features.
-            It does have many cool features like url routing, template engine. It is a WSGI web app framework.
-        </h3>
-        &emsp;&emsp;&emsp;
-        <div class="card" style="width: 28rem; background:rgb(82, 112, 107);padding:2rem; border-radius: 2rem;">
-            <div class="card-body">
-                <div style="margin-left: 50px;">
-                    <li>Python ( 3.11.3 )</li>
-                    <li>Flask ( 2.3.2 )</li>
-                    <li>Werkzeug ( 2.3.6 )</li>
-                    <li>pip ( 23.1.2 )</li>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h1 style="margin-left:180px;font-family: 'Bagel Fat One', cursive; color: #3c5c64;">Implementation</h1>
-    {% endblock content %}
+    <a class="btn btn-info" href="https://www.youtube.com/watch?v=qBBXBZXKi0w&ab_channel=AmitThinks">MySQL Installation
+        video</a>
+</div>
+<h3 style="margin-left:180px;color:#cc7e00;">Dont forget to download ODBC
+    connector for MySQL !</h3>
+
+
+<h1 style="margin-left:180px;font-family: 'Bagel Fat One', cursive;color: #c30707;">Flask Application Setup
+    (python
+    commands)</h1>
+<div style="margin-left:200px;">
+    <h2>Virtual Environment Setup</h2>
+    <span> py -3 -m venv venv</span>
+    <h2>Activate Virtual environment</h2>
+    ```
+    venv\Scripts\activate
+    ```
+    <h2>Change Directory to Netflix</h2>
+    ```
+    cd .\Netflix\
+    ```
+    <h2>Install dependencies</h2>
+    ```
+    pip install flask, flask-bootstrap, Jinja2
+    ```
+    <h2>Run flask application</h2>
+    ```
+    flask run --debug
+    ```
+
+</div>
+{% endblock content %}
