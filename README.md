@@ -16,7 +16,7 @@
 ```
 #### Install dependencies
 ```
-  pip install flask , Flask-Bootstrap
+  pip install flask, Flask-Bootstrap, Jinja2 
 ```
 ##### Run flask application 
 ```
