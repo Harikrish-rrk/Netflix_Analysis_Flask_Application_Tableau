@@ -48,7 +48,7 @@
 {% endblock head %}
 
 {% block content %}
-<div>
+<div style="position:sticky;top:0;background:black;">
     <br>
     <div style="display: flex; align-content:center; align-items:center; justify-content: space-around;">
         <div style="display: flex; align-content:center; align-items:center">
@@ -58,16 +58,16 @@
         </div>
         <div>
             <a href="https://github.com/Harikrish-rrk/Netflix_Analysis_Flask_Application_Tableau"><img
-                    style=" height: 50px; aspect-ratio: auto;"
+                    style=" height: 40px; aspect-ratio: auto;"
                     src="{{url_for('static', filename='img/github-mark-white.png')}}"></a>
             &emsp;
             &emsp;
             &emsp;
-            <img style="height: 50px; aspect-ratio: auto; filter: invert(100%);"
+            <img style="height: 40px; aspect-ratio: auto; filter: invert(100%);"
                 src="{{url_for('static', filename='img/tb.png')}}">
         </div>
     </div>
-    <div style="margin-left: 180px;">
+    <div style="margin-inline: 180px;">
         <div class="btn-group btn-group-lg" role="group" aria-label="Basic example">
 
             <a href="{{url_for('home')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Home</a>
@@ -80,7 +80,7 @@
             <a href="{{url_for('about')}}" class="btn btn-primary" style="color:white;text-decoration:none;">About</a>
 
         </div>
+        <hr>
     </div>
-    <br>
 </div>
 {% endblock content %}
