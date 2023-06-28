@@ -7,7 +7,7 @@
 ```
 pip install virtualenv
 ```
-Activate Virtual environment
+Make Virtual environment
 ```
  py -3 -m venv venv
 ```
@@ -15,15 +15,15 @@ Activate Virtual environment
 ```
  venv\Scripts\activate
 ```
-#### Change Directory to Netflix
+## Change Directory to Netflix
 ```
   cd .\Netflix\
 ```
-#### Install dependencies
+## Install dependencies
 ```
   pip install flask, Flask-Bootstrap, Jinja2 
 ```
-##### Run flask application 
+## Run flask application 
 ```
 flask run --debug
 ```
