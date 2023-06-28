@@ -2,6 +2,10 @@
 
 # Flask Application 
 
+## Change Directory
+```
+ cd .\Netflix_Analysis_Flask_Application_Tableau\
+```
 ## Virtual Environment Setup (Optional)
 ##### Installing Virtual Environment
 ```
