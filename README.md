@@ -2,7 +2,12 @@
 
 # Flask Application 
 
-## Virtual Environment Setup
+## Virtual Environment Setup (Optional)
+##### Installing Virtual Environment
+```
+pip install virtualenv
+```
+Activate Virtual environment
 ```
  py -3 -m venv venv
 ```
@@ -22,3 +27,5 @@
 ```
 flask run --debug
 ```
+
+Activate Virtual environment
