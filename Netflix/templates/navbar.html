@@ -8,6 +8,7 @@
 
     h5 {
         color: rgb(151, 252, 0);
+        margin-inline-start: 5rem;
     }
 
     h2,
@@ -75,8 +76,9 @@
     </div>
     <div style="margin-inline: 180px;">
         <div class="btn-group btn-group-lg" role="group" aria-label="Basic example">
-
             <a href="{{url_for('home')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Home</a>
+            <a href="{{url_for('software')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Software
+                Information</a>
             <a href="{{url_for('project')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Project
                 Setup</a>
             <a href="{{url_for('tableau')}}" class="btn btn-primary"
@@ -84,7 +86,6 @@
             <a href="{{url_for('contributors')}}" class="btn btn-primary"
                 style="color:white;text-decoration:none;">Contributors</a>
             <a href="{{url_for('about')}}" class="btn btn-primary" style="color:white;text-decoration:none;">About</a>
-
         </div>
         <hr>
     </div>
