@@ -68,8 +68,9 @@
             &emsp;
             &emsp;
             &emsp;
-            <img style="height: 40px; aspect-ratio: auto; filter: invert(100%);"
-                src="{{url_for('static', filename='img/tb.png')}}">
+            <a href="https://public.tableau.com/app/profile/benoy.joseph"><img
+                    style="height: 40px; aspect-ratio: auto; filter: invert(100%);"
+                    src="{{url_for('static', filename='img/tb.png')}}"></a>
 
 
         </div>
@@ -81,11 +82,14 @@
                 Information</a>
             <a href="{{url_for('project')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Project
                 Setup</a>
-            <a href="{{url_for('tableau')}}" class="btn btn-primary"
-                style="color:white;text-decoration:none;">Tableau</a>
+            <a href="{{url_for('tableau')}}" class="btn btn-primary" style="color:white;text-decoration:none;">Work
+                Books</a>
+            <a href="{{url_for('dashboard')}}" class="btn btn-primary"
+                style="color:white;text-decoration:none;">Dashboards</a>
+            <a href="{{url_for('stories')}}" class="btn btn-primary"
+                style="color:white;text-decoration:none;">Stories</a>
             <a href="{{url_for('contributors')}}" class="btn btn-primary"
                 style="color:white;text-decoration:none;">Contributors</a>
-            <a href="{{url_for('about')}}" class="btn btn-primary" style="color:white;text-decoration:none;">About</a>
         </div>
         <hr>
     </div>

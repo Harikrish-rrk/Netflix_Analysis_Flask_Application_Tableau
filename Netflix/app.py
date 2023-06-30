@@ -10,15 +10,18 @@ def home():
 @app.route('/project')
 def project():
     return render_template('project.html')
-@app.route('/tableau')
+@app.route('/workbook')
 def tableau():
-    return render_template('tableau.html')
+    return render_template('workbook.html')
+@app.route('/stories')
+def stories():
+    return render_template('stories.html')
+@app.route('/dashboard')
+def dashboard():
+    return render_template('dashboard.html')
 @app.route('/contributors')
 def contributors():
     return render_template('contributors.html')
-@app.route('/about')
-def about():
-    return render_template('about.html')
 @app.route('/software')
 def software():
     return render_template('software.html')    
