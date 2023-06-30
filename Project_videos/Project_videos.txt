@@ -1,0 +1,18 @@
+Netflix Flask Application using Tableau
+Team:115
+Data Preprocessing, Flask Application (installation, working and walkthrough)
+
+
+https://drive.google.com/drive/folders/1ndNJ223p_NAI5aytF9obrv1po6e_ttt?usp=sharing
+
+
+Explanation for Visualizations
+
+
+https://drive.google.com/drive/folders/10Qbe1k94ST4mEU1erdZ8UoFR-
+_PzrVHO?usp=sharing
+
+
+
+https://drive.google.com/drive/folders/1o2BldfG_byQT7VXSlt4afSPBqL7d9t
+Mg
