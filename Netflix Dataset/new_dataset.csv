@@ -1,0 +1,634 @@
+Index,TITLE,RELEASE_YEAR,SCORE,NUMBER_OF_VOTES,DURATION,NUMBER_OF_SEASONS,MAIN_GENRE,MAIN_PRODUCTION,type,Country
+0,David Attenborough: A Life on Our Planet,2020,9.0,31180,83,none,documentary,GB,Movies,United Kingdom
+1,Inception,2010,8.8,2268288,148,none,scifi,GB,Movies,United Kingdom
+2,Forrest Gump,1994,8.8,1994599,142,none,drama,US,Movies,United States
+3,Anbe Sivam,2003,8.7,20595,160,none,comedy,IN,Movies,India
+4,Bo Burnham: Inside,2021,8.7,44074,87,none,comedy,US,Movies,United States
+5,Saving Private Ryan,1998,8.6,1346020,169,none,drama,US,Movies,United States
+6,Django Unchained,2012,8.4,1472668,165,none,western,US,Movies,United States
+7,Dangal,2016,8.4,180247,161,none,action,IN,Movies,India
+8,Bo Burnham: Make Happy,2016,8.4,14356,60,none,comedy,US,Movies,United States
+9,Louis C.K.: Hilarious,2010,8.4,11973,84,none,comedy,US,Movies,United States
+10,Dave Chappelle: Sticks & Stones,2019,8.4,25687,65,none,comedy,US,Movies,United States
+11,3 Idiots,2009,8.4,385782,170,none,comedy,IN,Movies,India
+12,Black Friday,2004,8.4,20611,143,none,crime,IN,Movies,India
+13,Super Deluxe,2019,8.4,13680,176,none,thriller,IN,Movies,India
+14,Winter on Fire: Ukraine's Fight for Freedom,2015,8.3,17710,98,none,documentary,UA,Movies,Ukraine
+15,Once Upon a Time in America,1984,8.3,342335,229,none,drama,US,Movies,United States
+16,Taxi Driver,1976,8.3,795222,113,none,crime,US,Movies,United States
+17,Like Stars on Earth,2007,8.3,188234,165,none,drama,IN,Movies,India
+18,Bo Burnham: What.,2013,8.3,11488,60,none,comedy,US,Movies,United States
+19,Full Metal Jacket,1987,8.3,723306,116,none,drama,GB,Movies,United Kingdom
+20,Warrior,2011,8.2,463276,140,none,drama,US,Movies,United States
+21,Drishyam,2015,8.2,79075,163,none,thriller,IN,Movies,India
+22,Queen,2014,8.2,64805,146,none,drama,IN,Movies,India
+23,Paan Singh Tomar,2012,8.2,35888,135,none,drama,IN,Movies,India
+24,Cowspiracy: The Sustainability Secret,2014,8.2,24845,90,none,documentary,US,Movies,United States
+25,Virunga,2014,8.2,11403,90,none,war,CD,Movies,Democratic Republic of the Congo
+26,PK,2014,8.2,178012,153,none,comedy,IN,Movies,India
+27,Bahubali 2: The Conclusion,2017,8.2,91560,168,none,fantasy,IN,Movies,India
+28,Monty Python and the Holy Grail,1975,8.2,530877,91,none,comedy,GB,Movies,United Kingdom
+29,Article 15,2019,8.2,32336,130,none,crime,IN,Movies,India
+30,Miracle in Cell No. 7,2019,8.2,46939,132,none,drama,TR,Movies,Turkey
+31,13th,2016,8.2,34914,100,none,documentary,US,Movies,United States
+32,Andhadhun,2018,8.2,88359,139,none,thriller,IN,Movies,India
+33,Bill Burr: Paper Tiger,2019,8.1,10649,67,none,comedy,GB,Movies,United Kingdom
+34,Udaan,2010,8.1,44556,138,none,drama,IN,Movies,India
+35,How to Train Your Dragon,2010,8.1,719717,98,none,fantasy,US,Movies,United States
+36,Klaus,2019,8.1,141480,97,none,comedy,ES,Movies,Spain
+37,Swades,2004,8.1,89085,189,none,drama,IN,Movies,India
+38,Minnal Murali,2021,8.1,24681,158,none,action,IN,Movies,India
+39,Rang De Basanti,2006,8.1,118092,157,none,comedy,IN,Movies,India
+40,Seaspiracy,2021,8.1,29604,80,none,documentary,US,Movies,United States
+41,Rush,2013,8.1,465254,123,none,drama,US,Movies,United States
+42,Hannah Gadsby: Nanette,2018,8.1,12035,69,none,comedy,AU,Movies,Australia
+43,Barfi!,2012,8.1,80643,151,none,drama,IN,Movies,India
+44,Haider,2014,8.1,54001,150,none,drama,IN,Movies,India
+45,Zindagi Na Milegi Dobara,2011,8.1,75801,166,none,comedy,IN,Movies,India
+46,A Silent Voice: The Movie,2016,8.1,75132,130,none,romance,JP,Movies,Japan
+47,OMG: Oh My God!,2012,8.1,57449,125,none,fantasy,IN,Movies,India
+48,Talvar,2015,8.1,34659,132,none,thriller,IN,Movies,India
+49,Into the Wild,2007,8.1,611379,140,none,drama,US,Movies,United States
+50,Lagaan: Once Upon a Time in India,2001,8.1,111053,224,none,drama,IN,Movies,India
+51,My Octopus Teacher,2020,8.1,51232,84,none,documentary,ZA,Movies,South Africa
+52,Dil Chahta Hai,2001,8.1,71167,183,none,drama,IN,Movies,India
+53,Mersal,2017,8.1,32573,169,none,thriller,IN,Movies,India
+54,The Legend of Bhagat Singh,2002,8.1,16225,155,none,drama,IN,Movies,India
+55,Stand by Me,1986,8.1,392790,89,none,drama,US,Movies,United States
+56,The Exorcist,1973,8.1,391942,133,none,horror,US,Movies,United States
+57,Bombay,1995,8.1,12512,141,none,romance,IN,Movies,India
+58,Dasvi,2022,8.0,13140,125,none,drama,IN,Movies,India
+59,G.O.R.A.,2004,8.0,61797,127,none,scifi,TR,Movies,Turkey
+60,Blood Diamond,2006,8.0,536858,143,none,thriller,US,Movies,United States
+61,Vizontele,2001,8.0,36291,110,none,comedy,TR,Movies,Turkey
+62,Ip Man,2008,8.0,221095,108,none,drama,HK,Movies,Hong Kong
+63,Her,2013,8.0,586679,126,none,drama,US,Movies,United States
+64,The Bourne Ultimatum,2007,8.0,627009,115,none,thriller,DE,Movies,Germany
+65,Casino Royale,2006,8.0,644336,139,none,thriller,GB,Movies,United Kingdom
+66,Special 26,2013,8.0,55489,144,none,thriller,IN,Movies,India
+67,Neon Genesis Evangelion: The End of Evangelion,1997,8.0,51938,87,none,scifi,JP,Movies,Japan
+68,Bahubali: The Beginning,2015,8.0,117333,159,none,drama,IN,Movies,India
+69,Ankhon Dekhi,2014,8.0,11330,104,none,drama,IN,Movies,India
+70,Big Fish,2003,8.0,435503,125,none,drama,US,Movies,United States
+71,Silenced,2011,8.0,15889,125,none,drama,KR,Movies,South Korea
+72,Life of Brian,1979,8.0,392419,94,none,comedy,GB,Movies,United Kingdom
+73,The Invisible Guest,2017,8.0,170351,107,none,thriller,ES,Movies,Spain
+74,Dave Chappelle: The Closer,2021,8.0,24903,72,none,comedy,US,Movies,United States
+75,Blade Runner 2049,2017,8.0,539864,164,none,scifi,CA,Movies,Canada
+76,The Imitation Game,2014,8.0,748654,113,none,thriller,US,Movies,United States
+77,Jab We Met,2007,7.9,51945,138,none,comedy,IN,Movies,India
+78,Free to Play,2014,7.9,13308,75,none,documentary,UA,Movies,Ukraine
+79,Monty Python Live at the Hollywood Bowl,1982,7.9,15186,77,none,comedy,GB,Movies,United Kingdom
+80,Dev.D,2009,7.9,30389,144,none,drama,IN,Movies,India
+81,Marriage Story,2019,7.9,290643,136,none,drama,GB,Movies,United Kingdom
+82,Icarus,2017,7.9,48672,121,none,documentary,US,Movies,United States
+83,I Am Not Your Negro,2017,7.9,21632,93,none,documentary,BE,Movies,Belgium
+84,Ricky Gervais: Humanity,2018,7.9,18523,79,none,comedy,GB,Movies,United Kingdom
+85,Secret Superstar,2017,7.9,24046,150,none,drama,IN,Movies,India
+86,Kal Ho Naa Ho,2003,7.9,68028,186,none,drama,IN,Movies,India
+87,Pad Man,2018,7.9,25269,140,none,comedy,IN,Movies,India
+88,Shyam Singha Roy,2021,7.9,10903,157,none,drama,IN,Movies,India
+89,How to Train Your Dragon 2,2014,7.8,327565,102,none,fantasy,US,Movies,United States
+90,The Irishman,2019,7.8,371209,209,none,drama,US,Movies,United States
+91,Gangaajal,2003,7.8,17029,157,none,drama,IN,Movies,India
+92,The Girl with the Dragon Tattoo,2011,7.8,454917,158,none,crime,NO,Movies,Norway
+93,Lakshya,2004,7.8,23076,186,none,drama,IN,Movies,India
+94,The Social Network,2010,7.8,681286,121,none,drama,US,Movies,United States
+95,Dunkirk,2017,7.8,619645,107,none,drama,US,Movies,United States
+96,Kai Po Che!,2013,7.8,36512,126,none,drama,IN,Movies,India
+97,The Gentlemen,2019,7.8,314049,113,none,comedy,US,Movies,United States
+98,Marco Polo: One Hundred Eyes,2015,7.8,10742,28,none,action,US,Movies,United States
+99,The Hateful Eight,2015,7.8,570138,188,none,western,US,Movies,United States
+100,Hunt for the Wilderpeople,2016,7.8,125720,101,none,comedy,NZ,Movies,New Zealand
+101,The Last Samurai,2003,7.8,429097,154,none,drama,NZ,Movies,New Zealand
+102,Gattaca,1997,7.8,298168,106,none,thriller,US,Movies,United States
+103,The Butterfly's Dream,2013,7.8,21882,138,none,drama,TR,Movies,Turkey
+104,14 Peaks: Nothing Is Impossible,2021,7.8,22858,101,none,documentary,US,Movies,United States
+105,Nightcrawler,2014,7.8,523686,118,none,crime,US,Movies,United States
+106,Udta Punjab,2016,7.8,29819,148,none,crime,IN,Movies,India
+107,My Fair Lady,1964,7.8,94121,170,none,drama,US,Movies,United States
+108,System Crasher,2019,7.8,12699,118,none,drama,DE,Movies,Germany
+109,The Game Changers,2019,7.8,19708,88,none,documentary,US,Movies,United States
+110,Awakenings,1990,7.8,137549,120,none,drama,US,Movies,United States
+111,Badla,2019,7.8,27130,120,none,thriller,IN,Movies,India
+112,Madras Cafe,2013,7.7,24319,130,none,thriller,IN,Movies,India
+113,Beasts of No Nation,2015,7.7,80129,137,none,war,US,Movies,United States
+114,Bonnie and Clyde,1967,7.7,111189,110,none,drama,US,Movies,United States
+115,Roma,2018,7.7,153508,135,none,drama,MX,Movies,Mexico
+116,Kapoor & Sons,2016,7.7,25792,132,none,romance,IN,Movies,India
+117,Mucize,2015,7.7,12395,136,none,drama,TR,Movies,Turkey
+118,Wind River,2017,7.7,240408,106,none,thriller,FR,Movies,France
+119,Oye Lucky! Lucky Oye!,2008,7.7,17411,126,none,comedy,IN,Movies,India
+120,Dirty Harry,1971,7.7,153463,102,none,thriller,US,Movies,United States
+121,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,7.7,25593,94,none,comedy,US,Movies,United States
+122,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,7.7,10257,80,none,fantasy,JP,Movies,Japan
+123,Silver Linings Playbook,2012,7.7,697481,122,none,drama,US,Movies,United States
+124,Sanju,2018,7.7,52227,161,none,drama,IN,Movies,India
+125,Argo,2012,7.7,600392,120,none,drama,US,Movies,United States
+126,Guru,2007,7.7,23541,166,none,romance,IN,Movies,India
+127,Road to Perdition,2002,7.7,263212,117,none,thriller,US,Movies,United States
+128,The Trial of the Chicago 7,2020,7.7,170728,130,none,drama,US,Movies,United States
+129,When Harry Met Sally...,1989,7.7,212913,96,none,romance,US,Movies,United States
+130,Rock On!!,2008,7.7,21963,144,none,drama,IN,Movies,India
+131,In the Family,2017,7.7,23297,124,none,comedy,TR,Movies,Turkey
+132,Pyaar Ka Punchnama,2011,7.7,21204,149,none,romance,IN,Movies,India
+133,Midnight in Paris,2011,7.7,413541,94,none,fantasy,US,Movies,United States
+134,Donnie Brasco,1997,7.7,300073,127,none,thriller,US,Movies,United States
+135,The Blind Side,2009,7.6,323939,129,none,drama,US,Movies,United States
+136,Sherlock Holmes,2009,7.6,620154,129,none,crime,GB,Movies,United Kingdom
+137,Stardust,2007,7.6,269043,122,none,fantasy,US,Movies,United States
+138,Kuch Kuch Hota Hai,1998,7.6,51640,185,none,drama,IN,Movies,India
+139,Parmanu: The Story of Pokhran,2018,7.6,23771,129,none,drama,IN,Movies,India
+140,Doctor,2021,7.6,14590,150,none,thriller,IN,Movies,India
+141,"What Happened, Miss Simone?",2015,7.6,13703,101,none,musical,US,Movies,United States
+142,Eddie Murphy Raw,1987,7.6,19646,93,none,comedy,US,Movies,United States
+143,Delhi Belly,2011,7.6,29578,102,none,comedy,IN,Movies,India
+144,The Boy Who Harnessed the Wind,2019,7.6,36805,113,none,drama,MW,Movies,Malawi
+145,Kabhi Haan Kabhi Naa,1994,7.6,18224,158,none,comedy,IN,Movies,India
+146,The Two Popes,2019,7.6,120871,125,none,drama,US,Movies,United States
+147,The Social Dilemma,2020,7.6,79674,94,none,drama,US,Movies,United States
+148,Bad Genius,2017,7.6,20430,130,none,thriller,TH,Movies,Thailand
+149,The Mitchells vs. the Machines,2021,7.6,100787,113,none,animation,US,Movies,United States
+150,Gifted Hands: The Ben Carson Story,2009,7.6,10210,86,none,drama,US,Movies,United States
+151,Tell Me Who I Am,2019,7.6,14215,85,none,thriller,GB,Movies,United Kingdom
+152,RBG,2018,7.6,14037,98,none,documentary,US,Movies,United States
+153,Highway,2014,7.6,28370,133,none,drama,IN,Movies,India
+154,Athlete A,2020,7.6,10544,104,none,documentary,US,Movies,United States
+155,Lupin the Third: The Castle of Cagliostro,1979,7.6,30277,100,none,comedy,JP,Movies,Japan
+156,Love Actually,2003,7.6,474176,139,none,drama,GB,Movies,United Kingdom
+157,Hell or High Water,2016,7.6,224900,102,none,western,US,Movies,United States
+158,Wake Up Sid,2009,7.6,30818,138,none,comedy,IN,Movies,India
+159,Ludo,2020,7.6,37528,150,none,crime,IN,Movies,India
+160,Stree,2018,7.6,32814,128,none,horror,IN,Movies,India
+161,Aamir,2008,7.6,11241,99,none,thriller,IN,Movies,India
+162,I Am Sam,2001,7.6,149082,132,none,drama,US,Movies,United States
+163,True Grit,2010,7.6,333378,110,none,western,US,Movies,United States
+164,The Distinguished Citizen,2016,7.5,11495,118,none,comedy,AR,Movies,Argentina
+165,Jodhaa Akbar,2008,7.5,32188,213,none,romance,IN,Movies,India
+166,The Conjuring,2013,7.5,491048,107,none,thriller,US,Movies,United States
+167,Dhamaka,2021,7.5,39620,104,none,thriller,IN,Movies,India
+168,Bareilly Ki Barfi,2017,7.5,23011,123,none,romance,IN,Movies,India
+169,Les Miserables,2012,7.5,325132,157,none,drama,GB,Movies,United Kingdom
+170,Berserk: The Golden Age Arc I - The Egg of the King,2012,7.5,12278,76,none,fantasy,JP,Movies,Japan
+171,Dil Se..,1998,7.5,28409,163,none,drama,IN,Movies,India
+172,Omar,2013,7.5,14230,96,none,thriller,PS,Movies,Palestine
+173,I Lost My Body,2019,7.5,31531,81,none,fantasy,FR,Movies,France
+174,"tick, tick... BOOM!",2021,7.5,96418,121,none,drama,US,Movies,United States
+175,Coming Soon,2014,7.5,33714,134,none,drama,TR,Movies,Turkey
+176,Nocturnal Animals,2016,7.5,264884,115,none,drama,US,Movies,United States
+177,A Monster Calls,2016,7.5,86614,108,none,fantasy,ES,Movies,Spain
+178,On Body and Soul,2017,7.5,27003,116,none,fantasy,HU,Movies,Hungary
+179,Ala Vaikunthapurramuloo,2020,7.5,14839,165,none,drama,IN,Movies,India
+180,The Devil's Advocate,1997,7.5,361422,144,none,horror,DE,Movies,Germany
+181,Sivaji: The Boss,2007,7.5,19556,189,none,drama,IN,Movies,India
+182,Happy as Lazzaro,2018,7.5,17716,125,none,fantasy,IT,Movies,Italy
+183,The Guns of Navarone,1961,7.5,50150,158,none,war,US,Movies,United States
+184,Who Am I,2014,7.5,55044,105,none,thriller,DE,Movies,Germany
+185,White Christmas,1954,7.5,42373,115,none,romance,US,Movies,United States
+186,Ip Man 2,2010,7.5,103673,108,none,drama,CN,Movies,China
+187,42,2013,7.5,93314,128,none,drama,US,Movies,United States
+188,Menace II Society,1993,7.5,57399,97,none,drama,US,Movies,United States
+189,Hum Aapke Hain Koun..!,1994,7.5,20986,206,none,romance,IN,Movies,India
+190,Blow,2001,7.5,255099,124,none,drama,US,Movies,United States
+191,Begin Again,2013,7.4,154049,104,none,comedy,US,Movies,United States
+192,Uncut Gems,2019,7.4,261956,130,none,drama,US,Movies,United States
+193,Sherlock Holmes: A Game of Shadows,2011,7.4,446531,129,none,crime,US,Movies,United States
+194,Rurouni Kenshin Part I: Origins,2012,7.4,25793,134,none,drama,JP,Movies,Japan
+195,Forgotten,2017,7.4,29804,109,none,thriller,KR,Movies,South Korea
+196,Tamasha,2015,7.4,26790,139,none,drama,IN,Movies,India
+197,Mudbound,2017,7.4,47676,120,none,drama,US,Movies,United States
+198,Lady Bird,2017,7.4,277165,94,none,drama,US,Movies,United States
+199,Molly's Game,2017,7.4,165817,140,none,drama,CA,Movies,Canada
+200,Raman Raghav 2.0,2016,7.4,14380,134,none,thriller,IN,Movies,India
+201,Once Upon a Time in Mumbaai,2010,7.4,17494,132,none,thriller,IN,Movies,India
+202,Jaane Tu... Ya Jaane Na,2008,7.4,26738,155,none,drama,IN,Movies,India
+203,Peepli Live,2010,7.4,12265,104,none,drama,IN,Movies,India
+204,Even the Rain,2010,7.4,13446,104,none,drama,ES,Movies,Spain
+205,Darkest Hour,2017,7.4,193208,125,none,drama,GB,Movies,United Kingdom
+206,The Bucket List,2007,7.4,242733,97,none,drama,US,Movies,United States
+207,American Factory,2019,7.4,21415,110,none,documentary,US,Movies,United States
+208,Miss Americana,2020,7.4,19151,85,none,documentary,US,Movies,United States
+209,The Hand of God,2021,7.4,30235,130,none,drama,IT,Movies,Italy
+210,A Nightmare on Elm Street,1984,7.4,230543,91,none,horror,US,Movies,United States
+211,83,2021,7.4,23781,163,none,drama,IN,Movies,India
+212,Meenakshi Sundareshwar,2021,7.4,17141,141,none,comedy,IN,Movies,India
+213,Kurup,2021,7.4,11582,155,none,crime,IN,Movies,India
+214,"Crazy, Stupid, Love.",2011,7.4,507878,118,none,romance,US,Movies,United States
+215,Schumacher,2021,7.4,21558,112,none,sports,DE,Movies,Germany
+216,Guzaarish,2010,7.4,18466,126,none,drama,IN,Movies,India
+217,What the Health,2017,7.4,28911,97,none,documentary,US,Movies,United States
+218,Mirage,2018,7.4,52657,129,none,thriller,ES,Movies,Spain
+219,Bully,2011,7.4,10266,92,none,drama,US,Movies,United States
+220,Phantom Thread,2017,7.4,128600,130,none,romance,US,Movies,United States
+221,Looper,2012,7.4,566791,119,none,thriller,US,Movies,United States
+222,Felon,2008,7.4,78039,103,none,crime,US,Movies,United States
+223,Life in a Metro,2007,7.4,11934,124,none,drama,IN,Movies,India
+224,Kabhi Khushi Kabhie Gham,2001,7.4,48818,210,none,drama,IN,Movies,India
+225,Kaminey,2009,7.4,17136,135,none,drama,IN,Movies,India
+226,"Girl, Interrupted",1999,7.3,180532,127,none,drama,US,Movies,United States
+227,Talaash,2012,7.3,41752,149,none,thriller,IN,Movies,India
+228,Starship Troopers,1997,7.3,288960,129,none,scifi,US,Movies,United States
+229,The Guernsey Literary & Potato Peel Pie Society,2018,7.3,44917,124,none,romance,GB,Movies,United Kingdom
+230,Okja,2017,7.3,116305,122,none,drama,KR,Movies,South Korea
+231,Ishqiya,2010,7.3,10415,115,none,comedy,IN,Movies,India
+232,The Edge of Seventeen,2016,7.3,120488,104,none,comedy,US,Movies,United States
+233,Pyaar Ka Punchnama 2,2015,7.3,14968,159,none,comedy,IN,Movies,India
+234,The Nightingale,2018,7.3,28196,136,none,thriller,AU,Movies,Australia
+235,Corpse Bride,2005,7.3,265023,77,none,fantasy,US,Movies,United States
+236,Memoirs of a Geisha,2005,7.3,146847,145,none,drama,FR,Movies,France
+237,El Camino: A Breaking Bad Movie,2019,7.3,216847,123,none,thriller,US,Movies,United States
+238,Official Secrets,2019,7.3,45200,112,none,thriller,GB,Movies,United Kingdom
+239,Coach Carter,2005,7.3,143670,130,none,drama,US,Movies,United States
+240,The King,2019,7.3,119020,140,none,drama,AU,Movies,Australia
+241,Identity,2003,7.3,240433,90,none,thriller,US,Movies,United States
+242,The Best of Enemies,2019,7.3,16441,133,none,drama,US,Movies,United States
+243,The Professionals,1966,7.3,16168,117,none,western,US,Movies,United States
+244,Raat Akeli Hai,2020,7.3,17570,149,none,thriller,IN,Movies,India
+245,Little Women,1994,7.3,57621,115,none,drama,US,Movies,United States
+246,Badhaai Do,2022,7.3,15032,147,none,comedy,IN,Movies,India
+247,The Conjuring 2,2016,7.3,260693,134,none,thriller,US,Movies,United States
+248,The Fundamentals of Caring,2016,7.3,70542,97,none,drama,US,Movies,United States
+249,The Ballad of Buster Scruggs,2018,7.3,141528,132,none,western,US,Movies,United States
+250,Shot Caller,2017,7.3,83961,120,none,thriller,US,Movies,United States
+251,The Disaster Artist,2017,7.3,149604,104,none,comedy,US,Movies,United States
+252,Blue Jay,2016,7.3,17033,81,none,romance,US,Movies,United States
+253,Te3n,2016,7.3,12816,136,none,thriller,IN,Movies,India
+254,Monster,2003,7.3,149218,110,none,crime,US,Movies,United States
+255,No One Killed Jessica,2011,7.2,11665,136,none,crime,IN,Movies,India
+256,Toilet: A Love Story,2017,7.2,20675,155,none,comedy,IN,Movies,India
+257,Wish Dragon,2021,7.2,24712,99,none,fantasy,CN,Movies,China
+258,Mom,2017,7.2,10320,147,none,crime,IN,Movies,India
+259,The Professor and the Madman,2019,7.2,44418,124,none,thriller,US,Movies,United States
+260,Kabir Singh,2019,7.2,30949,172,none,drama,IN,Movies,India
+261,Dolemite Is My Name,2019,7.2,59836,118,none,comedy,US,Movies,United States
+262,In the Line of Fire,1993,7.2,101939,128,none,drama,US,Movies,United States
+263,The Witcher: Nightmare of the Wolf,2021,7.2,41508,83,none,fantasy,PL,Movies,Poland
+264,Ittefaq,2017,7.2,12095,107,none,thriller,IN,Movies,India
+265,The Tinder Swindler,2022,7.2,57606,114,none,crime,GB,Movies,United Kingdom
+266,First They Killed My Father,2017,7.2,17871,136,none,drama,KH,Movies,Cambodia
+267,Don't Look Up,2021,7.2,498447,138,none,scifi,US,Movies,United States
+268,Wazir,2016,7.2,18681,103,none,thriller,IN,Movies,India
+269,Gabbar Is Back,2015,7.2,24676,130,none,drama,IN,Movies,India
+270,Fyre,2019,7.2,44715,98,none,documentary,US,Movies,United States
+271,Steve Jobs,2015,7.2,166288,122,none,drama,GB,Movies,United Kingdom
+272,Shooter,2007,7.2,329417,124,none,thriller,US,Movies,United States
+273,The Butler,2013,7.2,114013,132,none,drama,US,Movies,United States
+274,The Siege of Jadotville,2016,7.2,38308,108,none,thriller,IE,Movies,Ireland
+275,Closer,2004,7.2,215678,94,none,drama,GB,Movies,United Kingdom
+276,Private Life,2018,7.2,19023,123,none,drama,US,Movies,United States
+277,American Murder: The Family Next Door,2020,7.2,26355,83,none,crime,US,Movies,United States
+278,St. Vincent,2014,7.2,102103,102,none,comedy,US,Movies,United States
+279,A River Runs Through It,1992,7.2,59086,123,none,drama,US,Movies,United States
+280,The Patriot,2000,7.2,270231,165,none,drama,DE,Movies,Germany
+281,Five Feet Apart,2019,7.2,61878,116,none,romance,US,Movies,United States
+282,Michael Clayton,2007,7.2,163878,120,none,thriller,US,Movies,United States
+283,The Edge of Democracy,2019,7.2,14605,121,none,documentary,BR,Movies,Brazil
+284,Paddington,2014,7.2,111092,96,none,comedy,FR,Movies,France
+285,Wedding Association,2013,7.1,22186,106,none,comedy,XX,Movies,XX
+286,Let Me In,2010,7.1,120208,116,none,horror,GB,Movies,United Kingdom
+287,Raajneeti,2010,7.1,17555,167,none,drama,IN,Movies,India
+288,Body of Lies,2008,7.1,224896,128,none,drama,GB,Movies,United Kingdom
+289,The Forgotten Battle,2020,7.1,26368,124,none,drama,LT,Movies,Lithuania
+290,Knock Down the House,2019,7.1,12418,86,none,documentary,US,Movies,United States
+291,The Call,2020,7.1,29450,112,none,thriller,KR,Movies,South Korea
+292,Forgetting Sarah Marshall,2008,7.1,280121,111,none,comedy,US,Movies,United States
+293,The Railway Man,2013,7.1,39743,116,none,drama,GB,Movies,United Kingdom
+294,The Great Hack,2019,7.1,22838,114,none,documentary,US,Movies,United States
+295,Paddleton,2019,7.1,13419,89,none,drama,US,Movies,United States
+296,Desperado,1995,7.1,183638,104,none,thriller,US,Movies,United States
+297,Gantz:O,2016,7.1,14501,95,none,animation,JP,Movies,Japan
+298,The Ring,2002,7.1,341888,111,none,horror,JP,Movies,Japan
+299,Margin Call,2011,7.1,125883,107,none,thriller,US,Movies,United States
+300,Copenhagen,2014,7.1,13135,98,none,drama,US,Movies,United States
+301,Black Mirror: Bandersnatch,2018,7.1,123377,90,none,scifi,GB,Movies,United Kingdom
+302,Metallica: Through the Never,2013,7.1,17433,93,none,musical,US,Movies,United States
+303,Seven Years in Tibet,1997,7.1,141308,136,none,drama,US,Movies,United States
+304,Girl,2018,7.1,14046,105,none,drama,NL,Movies,Netherlands
+305,Kung Fu Panda 3,2016,7.1,152791,95,none,comedy,US,Movies,United States
+306,To All the Boys I've Loved Before,2018,7.1,101175,100,none,romance,US,Movies,United States
+307,Arthur Christmas,2011,7.1,58296,97,none,drama,GB,Movies,United Kingdom
+308,Trailer Park Boys: The Movie,2006,7.1,12831,95,none,comedy,CA,Movies,Canada
+309,Karthik Calling Karthik,2010,7.1,11944,135,none,thriller,IN,Movies,India
+310,The White Tiger,2021,7.1,58190,125,none,drama,IN,Movies,India
+311,Shootout at Lokhandwala,2007,7.1,10139,145,none,crime,IN,Movies,India
+312,The Devil All the Time,2020,7.1,122321,138,none,drama,US,Movies,United States
+313,Tangerine,2015,7.1,31385,87,none,comedy,US,Movies,United States
+314,The Danish Girl,2015,7.1,180805,119,none,drama,DE,Movies,Germany
+315,The Unforgivable,2021,7.1,101975,112,none,drama,DE,Movies,Germany
+316,Phir Hera Pheri,2006,7.1,22505,155,none,comedy,IN,Movies,India
+317,War Dogs,2016,7.1,208185,114,none,crime,US,Movies,United States
+318,The Dig,2021,7.1,71915,112,none,drama,GB,Movies,United Kingdom
+319,Blade,1998,7.1,267181,120,none,action,US,Movies,United States
+320,Luck by Chance,2009,7.1,10206,155,none,romance,IN,Movies,India
+321,Namastey London,2007,7.1,21745,131,none,comedy,IN,Movies,India
+322,Don,2006,7.1,36836,178,none,thriller,IN,Movies,India
+323,Don 2,2011,7.1,52338,139,none,action,DE,Movies,Germany
+324,Main Hoon Na,2004,7.0,35142,179,none,drama,IN,Movies,India
+325,Gangubai Kathiawadi,2022,7.0,44045,157,none,drama,IN,Movies,India
+326,Croupier,1998,7.0,21382,94,none,thriller,FR,Movies,France
+327,Pieces of a Woman,2020,7.0,47795,127,none,drama,HU,Movies,Hungary
+328,Raw,2016,7.0,72460,98,none,horror,BE,Movies,Belgium
+329,Loving,2016,7.0,34139,123,none,drama,GB,Movies,United Kingdom
+330,Harold & Kumar Go to White Castle,2004,7.0,193053,88,none,comedy,US,Movies,United States
+331,Haseen Dillruba,2021,7.0,25771,135,none,drama,IN,Movies,India
+332,Rose Island,2020,7.0,20019,117,none,drama,IT,Movies,Italy
+333,Ferry,2021,7.0,10748,106,none,drama,NL,Movies,Netherlands
+334,Handsome Devil,2017,7.0,13708,95,none,drama,IE,Movies,Ireland
+335,Torbaaz,2020,7.0,17828,132,none,drama,IN,Movies,India
+336,Ip Man 3,2015,7.0,54128,105,none,drama,HK,Movies,Hong Kong
+337,The Foreigner,2017,7.0,112487,113,none,thriller,IN,Movies,India
+338,Mirai,2018,7.0,14983,98,none,fantasy,JP,Movies,Japan
+339,Gaga: Five Foot Two,2017,7.0,12825,100,none,musical,US,Movies,United States
+340,The Christmas Chronicles,2018,7.0,71182,104,none,fantasy,US,Movies,United States
+341,Sarkar,2018,7.0,18453,164,none,drama,IN,Movies,India
+342,Rambo,2008,7.0,228799,92,none,thriller,US,Movies,United States
+343,Dil Dhadakne Do,2015,7.0,17149,170,none,drama,IN,Movies,India
+344,Soul Surfer,2011,7.0,49101,112,none,drama,US,Movies,United States
+345,Happy Gilmore,1996,7.0,217534,92,none,comedy,US,Movies,United States
+346,Den of Thieves,2018,7.0,107701,140,none,thriller,US,Movies,United States
+347,The Zookeeper's Wife,2017,7.0,42808,122,none,drama,GB,Movies,United Kingdom
+348,The Platform,2019,7.0,207877,94,none,horror,ES,Movies,Spain
+349,Public Enemies,2009,7.0,297525,143,none,crime,US,Movies,United States
+350,Ip Man 4: The Finale,2019,7.0,30694,107,none,drama,CN,Movies,China
+351,John Q,2002,7.0,131999,116,none,drama,US,Movies,United States
+352,Fashion,2008,6.9,12468,167,none,romance,IN,Movies,India
+353,Ma Rainey's Black Bottom,2020,6.9,50275,94,none,musical,US,Movies,United States
+354,Any Given Sunday,1999,6.9,118479,162,none,drama,US,Movies,United States
+355,The Long Riders,1980,6.9,11329,99,none,western,US,Movies,United States
+356,Get on Up,2014,6.9,24456,139,none,drama,US,Movies,United States
+357,Fukrey,2013,6.9,11656,137,none,romance,IN,Movies,India
+358,Chup Chup Ke,2006,6.9,10528,165,none,comedy,IN,Movies,India
+359,Then Came You,2019,6.9,12356,93,none,comedy,US,Movies,United States
+360,The Wolf's Call,2019,6.9,17236,115,none,thriller,FR,Movies,France
+361,Cloudy with a Chance of Meatballs,2009,6.9,226225,90,none,animation,US,Movies,United States
+362,Our Souls at Night,2017,6.9,13360,101,none,drama,US,Movies,United States
+363,Chandigarh Kare Aashiqui,2021,6.9,12303,117,none,crime,IN,Movies,India
+364,Welcome,2007,6.9,21799,160,none,romance,IN,Movies,India
+365,Everybody Knows,2018,6.9,34009,132,none,drama,IT,Movies,Italy
+366,The Meyerowitz Stories (New and Selected),2017,6.9,47971,112,none,drama,US,Movies,United States
+367,I Don't Feel at Home in This World Anymore,2017,6.9,55549,93,none,drama,US,Movies,United States
+368,The Highwaymen,2019,6.9,88714,132,none,thriller,US,Movies,United States
+369,Legend,2015,6.9,175273,132,none,thriller,US,Movies,United States
+370,AK vs AK,2020,6.9,14048,108,none,drama,IN,Movies,India
+371,My Girl,1991,6.9,79800,103,none,comedy,US,Movies,United States
+372,Amanda Knox,2016,6.9,23969,92,none,crime,DK,Movies,Denmark
+373,2 States,2014,6.9,25344,149,none,comedy,IN,Movies,India
+374,The Power of the Dog,2021,6.9,158487,126,none,drama,CA,Movies,Canada
+375,The Half of It,2020,6.9,34959,104,none,comedy,US,Movies,United States
+376,Outlaw King,2018,6.9,69834,121,none,drama,GB,Movies,United Kingdom
+377,Mary Kom,2014,6.9,10656,122,none,drama,IN,Movies,India
+378,Suffragette,2015,6.9,41529,106,none,drama,FR,Movies,France
+379,Legend of the Guardians: The Owls of Ga'Hoole,2010,6.9,82623,100,none,fantasy,US,Movies,United States
+380,Christine,2016,6.9,14977,115,none,drama,US,Movies,United States
+381,The Night Comes for Us,2018,6.9,25500,121,none,thriller,ID,Movies,Indonesia
+382,The Trip,2021,6.9,19706,113,none,comedy,NO,Movies,Norway
+383,The Dirt,2019,6.9,47603,108,none,drama,US,Movies,United States
+384,Top Gun,1986,6.9,329656,110,none,drama,US,Movies,United States
+385,Radhe Shyam,2022,6.9,21328,138,none,romance,IN,Movies,India
+386,Sorry to Bother You,2018,6.9,75653,111,none,fantasy,US,Movies,United States
+387,Breaking Bad,2008,9.5,1727694,48,5,drama,US,Series,United States
+388,Avatar: The Last Airbender,2005,9.3,297336,24,3,scifi,US,Series,United States
+389,Our Planet,2019,9.3,41386,50,1,documentary,GB,Series,United Kingdom
+390,Kota Factory,2019,9.3,66985,42,2,drama,IN,Series,India
+391,The Last Dance,2020,9.1,108321,50,1,documentary,US,Series,United States
+392,Arcane,2021,9.1,175412,41,1,action,US,Series,United States
+393,Attack on Titan,2013,9.0,325381,24,4,scifi,JP,Series,Japan
+394,Hunter x Hunter,2011,9.0,87857,23,3,drama,JP,Series,Japan
+395,DEATH NOTE,2006,9.0,302147,24,1,scifi,JP,Series,Japan
+396,Seinfeld,1989,8.9,302700,24,9,comedy,US,Series,United States
+397,Cowboy Bebop,1998,8.9,112887,25,1,western,JP,Series,Japan
+398,Heartstopper,2022,8.9,28978,28,1,drama,GB,Series,United Kingdom
+399,When They See Us,2019,8.9,114127,74,1,drama,US,Series,United States
+400,Monty Python's Flying Circus,1969,8.8,72895,30,4,comedy,GB,Series,United Kingdom
+401,BoJack Horseman,2014,8.8,143584,26,6,drama,US,Series,United States
+402,Chappelle's Show,2003,8.8,62140,21,3,comedy,US,Series,United States
+403,Better Call Saul,2015,8.8,404920,49,6,comedy,US,Series,United States
+404,Narcos,2015,8.8,404486,52,3,drama,US,Series,United States
+405,One Piece,1999,8.8,112586,23,21,action,JP,Series,Japan
+406,Peaky Blinders,2013,8.8,485506,58,6,drama,GB,Series,United Kingdom
+407,Anne with an E,2017,8.7,51001,46,3,drama,CA,Series,Canada
+408,Dark,2017,8.7,354443,56,3,scifi,DE,Series,Germany
+409,House of Cards,2013,8.7,494092,52,6,drama,US,Series,United States
+410,Demon Slayer: Kimetsu no Yaiba,2019,8.7,88265,25,3,animation,JP,Series,Japan
+411,Stranger Things,2016,8.7,989090,52,5,scifi,US,Series,United States
+412,One-Punch Man,2015,8.7,148386,24,2,action,JP,Series,Japan
+413,The Crown,2016,8.7,190878,56,5,drama,US,Series,United States
+414,Arrested Development,2003,8.7,297552,28,5,comedy,US,Series,United States
+415,Friday Night Lights,2006,8.7,64449,43,5,drama,US,Series,United States
+416,Downton Abbey,2010,8.7,197744,58,6,drama,GB,Series,United Kingdom
+417,Code Geass: Lelouch of the Rebellion,2006,8.7,62367,24,3,scifi,JP,Series,Japan
+418,Trailer Park Boys,2001,8.6,41791,25,12,comedy,CA,Series,Canada
+419,Mindhunter,2017,8.6,261429,53,2,crime,US,Series,United States
+420,The Haunting of Hill House,2018,8.6,226817,58,1,drama,US,Series,United States
+421,The Queen's Gambit,2020,8.6,406350,56,1,drama,US,Series,United States
+422,Cobra Kai,2018,8.6,163858,31,5,action,US,Series,United States
+423,Wentworth,2013,8.6,21747,46,9,drama,AU,Series,Australia
+424,It's Okay to Not Be Okay,2020,8.6,21104,76,1,drama,KR,Series,South Korea
+425,Making a Murderer,2015,8.6,93456,62,2,crime,US,Series,United States
+426,Shameless,2011,8.6,230243,54,11,drama,US,Series,United States
+427,Sacred Games,2018,8.6,85088,50,2,action,IN,Series,India
+428,Formula 1: Drive to Survive,2019,8.6,36661,38,6,documentary,GB,Series,United Kingdom
+429,Queer Eye,2018,8.5,18147,47,6,reality,US,Series,United States
+430,Community,2009,8.5,252564,23,6,comedy,US,Series,United States
+431,The Last Kingdom,2015,8.5,126473,55,5,action,GB,Series,United Kingdom
+432,Schitt's Creek,2015,8.5,112537,22,6,comedy,CA,Series,Canada
+433,Neon Genesis Evangelion,1995,8.5,64727,24,1,scifi,JP,Series,Japan
+434,Call the Midwife,2012,8.5,25562,56,11,drama,GB,Series,United Kingdom
+435,The IT Crowd,2006,8.5,147409,25,5,comedy,GB,Series,United Kingdom
+436,ERASED,2016,8.5,42699,22,1,drama,JP,Series,Japan
+437,Supernatural,2005,8.5,428639,45,15,scifi,US,Series,United States
+438,Ozark,2017,8.5,278223,60,4,crime,US,Series,United States
+439,Delhi Crime,2019,8.5,18732,27,1,drama,IN,Series,India
+440,After Life,2019,8.5,124972,28,3,comedy,GB,Series,United Kingdom
+441,Hilda,2018,8.5,10162,25,2,scifi,GB,Series,United Kingdom
+442,Borgen,2010,8.5,23523,58,4,drama,DK,Series,Denmark
+443,Ash vs Evil Dead,2015,8.4,70087,30,3,action,US,Series,United States
+444,Heartland,2007,8.4,15743,44,15,drama,CA,Series,Canada
+445,Unbelievable,2019,8.4,95658,48,1,drama,US,Series,United States
+446,The Promised Neverland,2019,8.4,34730,23,2,scifi,JP,Series,Japan
+447,Derry Girls,2018,8.4,28718,25,3,comedy,GB,Series,United Kingdom
+448,Innocent,2017,8.4,17727,51,1,drama,TR,Series,Turkey
+449,Trollhunters: Tales of Arcadia,2016,8.4,16509,22,3,action,US,Series,United States
+450,Outlander,2014,8.4,152435,60,6,scifi,US,Series,United States
+451,The Legend of Korra,2012,8.4,117464,23,4,action,US,Series,United States
+452,The Dark Crystal: Age of Resistance,2019,8.4,24164,51,1,scifi,GB,Series,United Kingdom
+453,Vincenzo,2021,8.4,15134,81,1,action,KR,Series,South Korea
+454,Top Boy,2011,8.4,22420,48,2,drama,GB,Series,United Kingdom
+455,Babylon Berlin,2017,8.4,23256,49,4,crime,DE,Series,Germany
+456,Stargate SG-1,1997,8.4,90196,44,10,scifi,US,Series,United States
+457,Violet Evergarden,2018,8.4,19940,25,1,drama,JP,Series,Japan
+458,Narcos: Mexico,2018,8.4,80902,56,3,drama,US,Series,United States
+459,The Dragon Prince,2018,8.4,21635,27,3,scifi,US,Series,United States
+460,Maid,2021,8.4,74955,54,1,drama,US,Series,United States
+461,Car Masters: Rust to Riches,2018,8.4,10024,39,3,reality,US,Series,United States
+462,Naruto,2002,8.4,93980,23,6,scifi,JP,Series,Japan
+463,The Originals,2013,8.3,131574,43,5,scifi,US,Series,United States
+464,Fauda,2015,8.3,25239,40,3,war,IL,Series,Israel
+465,Sex Education,2019,8.3,251168,52,4,drama,GB,Series,United Kingdom
+466,Kingdom,2019,8.3,43760,48,2,action,KR,Series,South Korea
+467,Money Heist,2017,8.3,450797,50,5,crime,ES,Series,Spain
+468,Young Royals,2021,8.3,26732,45,1,drama,SE,Series,Sweden
+469,Atypical,2017,8.3,81643,31,4,comedy,US,Series,United States
+470,Gurren Lagann,2007,8.3,17024,24,1,scifi,JP,Series,Japan
+471,30 Rock,2006,8.3,121514,25,7,comedy,US,Series,United States
+472,Castlevania,2017,8.3,61114,26,4,scifi,US,Series,United States
+473,Kim's Convenience,2016,8.3,16970,22,5,comedy,CA,Series,Canada
+474,Master of None,2015,8.3,72341,32,3,drama,US,Series,United States
+475,Longmire,2012,8.3,34362,53,6,western,US,Series,United States
+476,Call My Agent!,2015,8.3,13331,55,4,comedy,FR,Series,France
+477,The Get Down,2016,8.2,22304,62,2,drama,US,Series,United States
+478,Sense8,2015,8.2,151518,62,2,scifi,US,Series,United States
+479,One Day at a Time,2017,8.2,15669,29,4,comedy,US,Series,United States
+480,The Kominsky Method,2018,8.2,38232,26,3,drama,US,Series,United States
+481,Itaewon Class,2020,8.2,12030,69,1,drama,KR,Series,South Korea
+482,The Good Place,2016,8.2,148562,23,4,scifi,US,Series,United States
+483,Grace and Frankie,2015,8.2,48435,30,7,comedy,US,Series,United States
+484,The Witcher,2019,8.2,465949,58,2,scifi,US,Series,United States
+485,Locked Up,2015,8.2,21388,50,4,drama,ES,Series,Spain
+486,Gilmore Girls,2000,8.2,119054,46,8,comedy,US,Series,United States
+487,Caliphate,2020,8.2,17735,48,1,war,SE,Series,Sweden
+488,Fate/Zero,2011,8.2,12568,25,2,scifi,JP,Series,Japan
+489,The Walking Dead,2010,8.2,945125,46,11,action,US,Series,United States
+490,anohana: The Flower We Saw That Day,2011,8.2,12682,23,1,drama,JP,Series,Japan
+491,The Trials of Gabriel Fernandez,2020,8.1,10982,55,1,crime,US,Series,United States
+492,How to Get Away with Murder,2014,8.1,146712,43,6,drama,US,Series,United States
+493,Derek,2013,8.1,31976,26,3,drama,GB,Series,United Kingdom
+494,Rascal Does Not Dream of Bunny Girl Senpai,2018,8.1,10400,25,1,animation,JP,Series,Japan
+495,Wild Wild Country,2018,8.1,29298,67,1,crime,US,Series,United States
+496,Bodyguard,2018,8.1,114446,60,2,war,GB,Series,United Kingdom
+497,American Vandal,2017,8.1,29972,33,2,comedy,US,Series,United States
+498,The End of the F***ing World,2017,8.1,177868,21,2,crime,GB,Series,United Kingdom
+499,Manhunt,2017,8.1,57459,43,2,documentary,US,Series,United States
+500,Criminal Minds,2005,8.1,189191,44,15,thriller,US,Series,United States
+501,HAPPY!,2017,8.1,37747,43,2,scifi,US,Series,United States
+502,Orange Is the New Black,2013,8.1,295591,59,7,drama,US,Series,United States
+503,Star Trek: Deep Space Nine,1993,8.1,61145,47,7,scifi,US,Series,United States
+504,Lovesick,2014,8.1,19259,24,3,comedy,GB,Series,United Kingdom
+505,Lucifer,2016,8.1,308291,47,6,scifi,US,Series,United States
+506,F is for Family,2015,8.0,36050,28,5,comedy,US,Series,United States
+507,Don't F**k with Cats: Hunting an Internet Killer,2019,8.0,50250,62,1,crime,US,Series,United States
+508,GLOW,2017,8.0,44751,34,4,drama,US,Series,United States
+509,The Umbrella Academy,2019,8.0,202522,52,3,comedy,US,Series,United States
+510,Tabula Rasa,2017,8.0,10161,52,1,drama,BE,Series,Belgium
+511,Dead to Me,2019,8.0,73110,31,2,drama,US,Series,United States
+512,The Mechanism,2018,8.0,36077,47,2,drama,BR,Series,Brazil
+513,Squid Game,2021,8.0,416738,54,2,action,KR,Series,South Korea
+514,Toradora!,2008,8.0,14307,30,2,animation,JP,Series,Japan
+515,Comedians in Cars Getting Coffee,2012,8.0,12363,20,11,comedy,US,Series,United States
+516,Marco Polo,2014,8.0,71229,55,2,action,US,Series,United States
+517,Travelers,2016,8.0,54566,45,3,scifi,CA,Series,Canada
+518,The Blacklist,2013,8.0,238138,43,9,drama,US,Series,United States
+519,Unorthodox,2020,8.0,74118,54,1,drama,DE,Series,Germany
+520,Inside Bill's Brain: Decoding Bill Gates,2019,7.9,10776,50,1,documentary,US,Series,United States
+521,On My Block,2018,7.9,15642,29,4,comedy,US,Series,United States
+522,Medici: Masters of Florence,2016,7.9,18575,54,3,war,GB,Series,United Kingdom
+523,The Seven Deadly Sins,2014,7.9,30341,24,5,action,JP,Series,Japan
+524,Queen of the South,2016,7.9,28537,42,5,drama,US,Series,United States
+525,KILL la KILL,2013,7.9,13372,25,1,action,JP,Series,Japan
+526,Bloodline,2015,7.9,50028,57,3,drama,US,Series,United States
+527,Into the Badlands,2015,7.9,45628,43,3,action,US,Series,United States
+528,Merlin,2008,7.9,80138,44,5,action,GB,Series,United Kingdom
+529,InuYasha,2000,7.9,15823,25,9,action,JP,Series,Japan
+530,Altered Carbon,2018,7.9,162018,52,2,scifi,US,Series,United States
+531,The OA,2016,7.9,100911,55,2,scifi,US,Series,United States
+532,Resurrection: Ertugrul,2014,7.9,35515,57,5,war,TR,Series,Turkey
+533,The Borgias,2011,7.9,50556,51,3,drama,CA,Series,Canada
+534,Lilyhammer,2012,7.9,29196,45,3,crime,NO,Series,Norway
+535,Boys Over Flowers,2009,7.9,11579,64,1,comedy,KR,Series,South Korea
+536,I Think You Should Leave with Tim Robinson,2019,7.9,11411,16,3,comedy,US,Series,United States
+537,Suburra: Blood on Rome,2017,7.9,14346,48,3,crime,IT,Series,Italy
+538,The Sinner,2017,7.9,117055,45,4,crime,US,Series,United States
+539,The Spy,2019,7.9,40535,53,1,drama,FR,Series,France
+540,Santa Clarita Diet,2017,7.9,64467,29,3,comedy,US,Series,United States
+541,How to Sell Drugs Online (Fast),2019,7.9,30734,32,3,drama,DE,Series,Germany
+542,Rise of Empires: Ottoman,2020,7.9,22045,45,2,documentary,TR,Series,Turkey
+543,Big Mouth,2017,7.9,74660,27,6,animation,US,Series,United States
+544,Versailles,2015,7.9,16273,54,3,drama,CA,Series,Canada
+545,She-Ra and the Princesses of Power,2018,7.8,14935,24,5,scifi,US,Series,United States
+546,A Series of Unfortunate Events,2017,7.8,59239,47,3,action,US,Series,United States
+547,Gotham,2014,7.8,226081,43,5,scifi,US,Series,United States
+548,Workin' Moms,2017,7.8,14892,22,6,comedy,CA,Series,Canada
+549,Russian Doll,2019,7.8,88945,28,2,drama,US,Series,United States
+550,Sweet Tooth,2021,7.8,49182,45,2,scifi,US,Series,United States
+551,Imposters,2017,7.8,13238,43,2,drama,US,Series,United States
+552,iZombie,2015,7.8,66488,42,5,scifi,US,Series,United States
+553,Conversations with a Killer: The Ted Bundy Tapes,2019,7.8,27439,59,1,crime,US,Series,United States
+554,Never Have I Ever,2020,7.8,45346,28,4,drama,US,Series,United States
+555,My Name,2021,7.8,18446,50,1,thriller,KR,Series,South Korea
+556,Happy Endings,2011,7.8,37778,21,3,comedy,US,Series,United States
+557,Crazy Ex-Girlfriend,2015,7.8,19738,42,4,comedy,US,Series,United States
+558,El Chapo,2017,7.8,17992,44,3,drama,US,Series,United States
+559,NCIS,2003,7.8,141049,44,19,action,US,Series,United States
+560,Jane the Virgin,2014,7.8,46286,42,5,drama,US,Series,United States
+561,Undercover,2019,7.8,16773,49,3,drama,BE,Series,Belgium
+562,DOTA: Dragon's Blood,2021,7.8,17429,26,2,scifi,US,Series,United States
+563,The Innocent,2021,7.8,29019,58,1,crime,ES,Series,Spain
+564,The Staircase,2004,7.8,21531,49,2,crime,FR,Series,France
+565,Giri/Haji,2019,7.8,13570,58,1,thriller,GB,Series,United Kingdom
+566,Angel Beats!,2010,7.7,13848,26,1,scifi,JP,Series,Japan
+567,Love,2016,7.7,41362,32,3,drama,US,Series,United States
+568,In the Dark,2019,7.7,10927,41,4,comedy,US,Series,United States
+569,Midnight Mass,2021,7.7,102321,64,1,action,US,Series,United States
+570,The Vampire Diaries,2009,7.7,310776,42,8,scifi,US,Series,United States
+571,Alias Grace,2017,7.7,31577,44,1,drama,CA,Series,Canada
+572,You,2018,7.7,225949,47,3,thriller,US,Series,United States
+573,Norsemen,2016,7.7,18040,30,3,comedy,NO,Series,Norway
+574,Good Girls,2018,7.7,49867,42,4,comedy,US,Series,United States
+575,Seven Seconds,2018,7.7,15323,62,1,crime,US,Series,United States
+576,The Chestnut Man,2021,7.7,41253,55,1,crime,DK,Series,Denmark
+577,Crashing,2016,7.7,18546,30,1,comedy,GB,Series,United Kingdom
+578,Maniac,2018,7.7,74877,39,1,drama,US,Series,United States
+579,New Girl,2011,7.7,216209,21,7,comedy,US,Series,United States
+580,Miraculous: Tales of Ladybug & Cat Noir,2015,7.7,10102,22,4,romance,FR,Series,France
+581,Home for Christmas,2019,7.7,13670,29,2,comedy,NO,Series,Norway
+582,Inside Job,2021,7.6,15137,28,1,comedy,US,Series,United States
+583,The Serpent,2021,7.6,41782,57,1,drama,GB,Series,United Kingdom
+584,Alice in Borderland,2020,7.6,47651,47,2,action,JP,Series,Japan
+585,Spinning Out,2020,7.6,13692,50,1,drama,US,Series,United States
+586,Messiah,2020,7.6,42018,45,1,drama,US,Series,United States
+587,Teenage Bounty Hunters,2020,7.6,10821,49,1,action,US,Series,United States
+588,Shadow and Bone,2021,7.6,77782,52,1,scifi,US,Series,United States
+589,The Devil Next Door,2019,7.6,13084,46,1,documentary,US,Series,United States
+590,My Little Pony: Friendship Is Magic,2010,7.6,20708,22,9,scifi,CA,Series,Canada
+591,The Magicians,2015,7.6,49557,44,5,drama,US,Series,United States
+592,Bordertown,2016,7.6,10371,59,3,drama,FI,Series,Finland
+593,Unbreakable Kimmy Schmidt,2015,7.6,70242,30,4,comedy,US,Series,United States
+594,Chicago Med,2015,7.6,24142,41,8,drama,US,Series,United States
+595,The 100,2014,7.6,242221,42,7,drama,US,Series,United States
+596,The Flash,2014,7.6,336888,42,8,scifi,US,Series,United States
+597,Cable Girls,2017,7.6,13855,50,5,drama,ES,Series,Spain
+598,Criminal: UK,2019,7.6,17992,44,2,drama,GB,Series,United Kingdom
+599,Devilman Crybaby,2018,7.6,18575,25,1,scifi,JP,Series,Japan
+600,Madam Secretary,2014,7.6,22563,43,6,war,US,Series,United States
+601,Sword Art Online,2012,7.6,43727,23,4,scifi,JP,Series,Japan
+602,Gilmore Girls: A Year in the Life,2016,7.6,36359,92,1,comedy,US,Series,United States
+603,Dead Set,2008,7.6,19684,141,1,scifi,GB,Series,United Kingdom
+604,Grey's Anatomy,2005,7.6,293618,49,18,drama,US,Series,United States
+605,Goosebumps,1995,7.6,13361,22,4,scifi,CA,Series,Canada
+606,Love 101,2020,7.5,13797,46,2,comedy,TR,Series,Turkey
+607,Shooter,2016,7.5,35547,41,3,war,US,Series,United States
+608,Reign,2013,7.5,47751,42,4,drama,US,Series,United States
+609,Blue Exorcist,2011,7.5,12741,24,2,scifi,JP,Series,Japan
+610,Outer Banks,2020,7.5,43404,49,2,action,US,Series,United States
+611,Arrow,2012,7.5,425716,42,8,action,US,Series,United States
+612,Halston,2021,7.5,14040,47,1,drama,US,Series,United States
+613,The Night Shift,2014,7.5,12069,42,4,drama,US,Series,United States
+614,The Heirs,2013,7.5,10329,59,1,drama,KR,Series,South Korea
+615,The Politician,2019,7.5,21887,43,2,comedy,US,Series,United States
+616,Ragnarok,2020,7.5,36185,47,2,action,NO,Series,Norway
+617,Everything Sucks!,2018,7.5,18023,24,1,drama,US,Series,United States
+618,Frequency,2016,7.5,13625,18,3,scifi,US,Series,United States
+619,Dark Matter,2015,7.5,41867,43,3,scifi,CA,Series,Canada
+620,Night Stalker: The Hunt for a Serial Killer,2021,7.5,23939,47,1,crime,US,Series,United States
+621,Dash & Lily,2020,7.5,16978,25,1,comedy,US,Series,United States
+622,True Story,2021,7.5,16927,39,1,drama,US,Series,United States
+623,Hollywood,2020,7.5,35067,50,1,drama,US,Series,United States
+624,Designated Survivor,2016,7.5,88019,44,3,war,US,Series,United States
+625,Quicksand,2019,7.5,21077,46,1,drama,SE,Series,Sweden
+626,Feel Good,2020,7.5,10317,25,2,drama,GB,Series,United Kingdom
+627,Dogs of Berlin,2018,7.5,12453,60,1,drama,DE,Series,Germany
+628,Evil Genius,2018,7.5,27516,48,1,crime,US,Series,United States
+629,13 Reasons Why,2017,7.5,282373,58,4,drama,US,Series,United States
+630,Lupin,2021,7.5,100575,46,3,crime,FR,Series,France
+631,All of Us Are Dead,2022,7.5,41393,61,1,action,KR,Series,South Korea
+632,I Am Not Okay with This,2020,7.5,56459,21,1,comedy,US,Series,United States
