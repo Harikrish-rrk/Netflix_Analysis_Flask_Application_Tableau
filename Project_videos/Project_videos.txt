@@ -3,7 +3,7 @@ Team:115
 Data Preprocessing, Flask Application (installation, working and walkthrough)
 
 
-https://drive.google.com/drive/folders/1ndNJ223p_NAI5aytF9obrv1po6e_ttt?usp=sharing
+https://drive.google.com/drive/folders/1n-dNJ223p_NAI5aytF9obrv1po6e_ttt
 
 
 Explanation for Visualizations
