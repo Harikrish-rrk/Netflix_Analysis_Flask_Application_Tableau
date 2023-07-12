@@ -1,6 +1,7 @@
 # 1. Project Documentation and Information
-Data Preprocessing, Flask Application (installation, working and walkthrough)
-<a href="https://drive.google.com/drive/folders/1n-dNJ223p_NAI5aytF9obrv1po6e_ttt" target="_blank">Netlix App Demo Link</a>
+
+<h2>Data Preprocessing, Flask Application (installation, working and walkthrough)</h2>
+<a href="https://drive.google.com/drive/folders/1n-dNJ223p_NAI5aytF9obrv1po6e_ttt" target="_blank">Netflix App Demo Link</a>
 
 
 # 2. Explanation for Tableau Visualizations
