@@ -49,7 +49,7 @@ Make Virtual environment
 ```
 ## Change Directory to Netflix
 ```
-  cd .\Netflix\
+  cd '.\Netflix_Flask_Application\'    
 ```
 ## Install dependencies
 ```
