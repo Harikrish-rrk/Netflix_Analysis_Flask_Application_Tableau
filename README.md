@@ -1,3 +1,11 @@
+# SmartBridge-DataAnalytics
+
+We have done a externship program under VIT-SMARTBRIDGE
+
+We are in Team no.115 
+
+Our title is Netflix Analysis using Tableau and we are attaching all the project deliverables here.
+
 # 1. Project Documentation and Information
 
 <h2>Data Preprocessing, Flask Application (installation, working and walkthrough)</h2>
