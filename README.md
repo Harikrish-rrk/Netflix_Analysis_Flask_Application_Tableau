@@ -8,7 +8,7 @@ Our title is Netflix Analysis using Tableau and we are attaching all the project
 
 # 1. Project Documentation and Information
 
-<h2>Data Preprocessing, Flask Application (installation, working and walkthrough)</h2>
+<h2>Data Preprocessing,MySQL Workbench, Flask Application (installation, working and walkthrough)</h2>
 <a href="https://drive.google.com/drive/folders/1n-dNJ223p_NAI5aytF9obrv1po6e_ttt" target="_blank">Netflix App Demo Link</a>
 
 
