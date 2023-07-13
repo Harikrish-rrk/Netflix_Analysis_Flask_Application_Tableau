@@ -59,3 +59,14 @@ Make Virtual environment
 ```
 flask run --debug
 ```
+# Project Images
+![Screenshot 2023-07-13 174200](https://github.com/Harikrish-rrk/Netflix_Analysis_Flask_Application_Tableau/assets/110128554/ca062760-7ef6-4eb6-a39c-a938c5d9c012)
+
+
+![Screenshot 2023-07-13 174258](https://github.com/Harikrish-rrk/Netflix_Analysis_Flask_Application_Tableau/assets/110128554/b9ad47a8-dbf9-4cb3-86b5-49b121b93d2f)
+
+![Screenshot 2023-07-13 174326](https://github.com/Harikrish-rrk/Netflix_Analysis_Flask_Application_Tableau/assets/110128554/efd3b2e3-9322-4f1c-a7ec-541dc7e3ab65)
+
+![Screenshot 2023-07-13 174440](https://github.com/Harikrish-rrk/Netflix_Analysis_Flask_Application_Tableau/assets/110128554/f111fc80-16e9-4b9d-87c3-d4021b319819)
+
+![Screenshot 2023-07-13 174452](https://github.com/Harikrish-rrk/Netflix_Analysis_Flask_Application_Tableau/assets/110128554/3383ad80-1b0e-43e6-8921-6c2abfae23ee)
